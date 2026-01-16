@@ -21,5 +21,5 @@ It is a beginner-friendly project that demonstrates basic programming concepts s
 ##  Technologies Used
 
 - VS Code 
-
+- Python
 
